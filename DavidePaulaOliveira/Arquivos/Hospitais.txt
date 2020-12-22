@@ -1,0 +1,10 @@
+Hospital São Camilo - Timóteo;Alta;Rua José Julio Lage;Timóteo;Timirim;(31) 3849-9500;1,9;6;
+Hospital São Camilo - Cel. Fabriciano;Alta;Rua Argemiro José Ribeiro;Cel. Fabriciano;Santa Helena;(31) 3865-1800;6,7;14;
+Hospital São Lucas;Alta;Rua Fernando Pinheiro d'Ávila;Cel. Fabriciano;Santa Terezinha;(31) 3842-6219;8,2;16;
+Hospital Márcio Cunha I;Muito Alta;Rua Gáspar de Lemos;Ipatinga;Bom Retiro;(31) 3829-9000;15,6;24;
+Hospital UNIMED;Alta;Rua Novo Hamburgo;Ipatinga;Veneza;(31) 3841-9801;20,3;29;
+Hospital Márcio Cunha II;Muito Alta;Avenida Kiyoshi Tsunawaki;Ipatinga;Das Águas;(31) 3829-9000;19,0;27;
+Hospital de Olhos Vale do Aço;Alta;Avenida Zita de Oliveira;Ipatinga;Novo Centro;(31) 3801-1800;21,7;33;
+Hospital Municipal de Ipatinga;Alta;Avenida Felipe dos Santos;Ipatinga;Cidade Nobre;(31) 3828-5600;22,4;37;
+Pronto Socorro Municipal;Alta;Avenida Felipe dos Santos;Ipatinga;Cidade Nobre;(31) 3828-5600;22,7;38;
+Pronto Atendimento - Unimed Vale do Aço;Alta;Rua Ipanema;Cel. Fabriciano;Centro;(31) 3841-9805;5,7;11;
